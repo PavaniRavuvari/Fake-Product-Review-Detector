@@ -23,15 +23,6 @@ This project leverages machine learning to detect fake reviews, providing a reli
   - Model training and evaluation
   - Fake review detection
 
-## Installation
-
-  Clone the repository and install the necessary dependencies:
-
-  ```
-  git clone https://github.com/the-developer-306/Fake-Review-Detector.git
-cd Fake-Review-Detector
-pip install -r requirements.txt
-  ```
 
 ## Usage
 
@@ -67,11 +58,3 @@ Contributions are what make the open-source community such an amazing place to l
 ## License
 
 This project is licensed under the MIT License.
-
-## Contact
-
-For any questions or suggestions, feel free to reach out:
-
-- GitHub: [the-developer-306](https://github.com/the-developer-306)
-- Email: [whilealivecode127.0.0.1@gmail.com](mailto:whilealivecode127.0.0.1@gmail.com)
-
